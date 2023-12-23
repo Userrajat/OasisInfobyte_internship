@@ -7,7 +7,7 @@ package OasisTask;
 
 /**
  *
- * @author Monideepa Saha
+ * @author rajat
  */
 import java.util.*;
 import java.util.Scanner;
